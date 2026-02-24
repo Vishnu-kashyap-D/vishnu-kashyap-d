@@ -27,7 +27,7 @@ Proven track record of innovation with **4+ hackathon victories**, **CTF wins**,
 ---
 
 ## 💼 Experience
-### **Vice Chair | IEEE CIS BMSIT&M** (2023 – Present) 🏛️
+### **EX-Vice Chair | IEEE CIS BMSIT&M** (2023 – Present) 🏛️
 - 🎤 Spearheaded the organization of **8+ major technical events**, hackathons, and industry speaker sessions.
 - 🎓 Conducted **ML workshops for 100+ students**, fostering technical growth in the community.
 - 🧑‍🏫 Mentored juniors on **Python, OpenCV, and Git/GitHub** best practices.
